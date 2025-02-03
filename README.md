@@ -15,6 +15,6 @@ Marketplace Hunter is available for a **one-time payment of just $4.99** via Str
 
 ## 📜 Privacy Policy  
 
-We value your privacy. Read our [Privacy Policy](privacy-policy.html) to learn more about how we handle your data.  
+We value your privacy. Read our [Privacy Policy](privacy-policy.md) to learn more about how we handle your data.  
 
 Say goodbye to clutter and hello to fresh deals with **Marketplace Hunter**. Try it today and never miss out on a great find again! 
